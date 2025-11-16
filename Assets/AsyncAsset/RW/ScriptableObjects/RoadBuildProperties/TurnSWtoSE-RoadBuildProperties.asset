@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48c127c443e84939b53e3795f904790b, type: 3}
+  m_Name: TurnSWtoSE-RoadBuildProperties
+  m_EditorClassIdentifier: 
+  completedRoadPrefab: {fileID: 7850975547207583989, guid: 1729b7495627dca49b6d0e7ac6c57d50, type: 3}
+  roadCost: 1500
